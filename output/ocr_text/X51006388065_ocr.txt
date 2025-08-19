@@ -1,0 +1,11 @@
+o
+
+BOND
+
+ti
+
+bolt
+
+RADU, 8
+2
+

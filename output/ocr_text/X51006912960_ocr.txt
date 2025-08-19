@@ -1,0 +1,27 @@
+De Maximum Thai Express Sdn Bhd
+1241045-D
+Bik 2, Unit Gi & G2, Bestari Terrace,
+Lot PTD 182908 & PTD 143216,
+
+Jalan Danga, Taman Nusa Bestari, 81300
+
+TAX INVOICE NO | / 6 ;
+6485 A
+Date: 17/06/2018 10:54:21 PM
+
+Cashier: $201
+
+Waiter: ANJO |
+Qty Code/Desc Unit Price Total RM
+2 D1 | 8.90 17.80
+THAI ICE TEA
+1 FRO 12.90 12.90
+BELACAN FRIED RICE
+Total Amount : 30.70
+Rounding Adj : 0.00
+TotalAmount 30.70
+TOTAL: M 30.70
+
+Type2 ty 3” 17/05/2018
+
+.. Xpasmart WIFIPOS Since 19865 ...
