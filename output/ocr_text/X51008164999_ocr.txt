@@ -1,45 +1,37 @@
-~~
-
+,
 CNE ONE THREE SEAFOOD RESTAURANT SDN BHD
-(1120908-M)
-NO.1, TaMAN SRI DENGKIL, JALAN AIR HITAM
+(1120908-M) ,
+NO.1, TaMAN SRI DENGKIL, JALAN AIR HITAM ,
 43800 DENGKIL, SELANGOR.
-(GST Reg. No : 000670224384)
-Tax Invoice
+(ST Reg. No : 000670224384) |
+Tax Invoice |
 Table 33
-81114 VO01-541021 Order#: 141126
-fate  : 23-08-2018 20:52:18
-
-Cashier: 113 CASHIER Pax(s): 0
-Cty description Total TAX
-1 D 30.00 SR
+81 11% VO01-~-541021 Order#: 141126 |
+bate 23-08-2018 20:52:16 |
+Cashier: 113 CASHIER Pax(s): 0 |
+Qty Description Total TAX ,
+SO Fe ree er em. omen ce ae ne ae wes coe ee an a at ee ee ae ae nw eee a a ee ee ee ose
+1 D 30.00 SR |
 Yam Iten
-
 1 D 30.00 SR
-§,Soup |ala Ttem (XL)
-
-1 D 77.00 SR
+$.Soup |ala Ttem (XL)
+] D0 77.00 SR
 Fish Item
-
-1 0D 15.00 SR
+] D 15.00 SR
 Omellete Item
-
 1 D 7,50 SR
 white Rice
-
-] D 15.00 SR
+] D0 15.00 SR
 Vege Item (M)
-
-] D 5.00 SR
-average
-Tote! (Excluding GST): 179.50
-Total (Inclusive of GST): 179.50
-TOTAL : 179. 50
-late 23- 06. 2016 21:29:23
-Server: me CASHIER
-CASH ; 179.50
-GST Sumiar Anount (RM) Tax( (RM)
-SR (@ 0%) 179.50 0.00
-
-eee Thank You +e
+1 D 5.00 SR
+Beverage
+Total (fxcluding GST): 179.50
+Total (inclusive of GST): 179.50
+TOTAL: 179.50 |
+Closed: 1 23-06-2018 21:29:23
+Server: 113 CASHIER |
+CASH : 179.50 |
+GST Summary Amount(RM)  Tax(RM)
+SR (@ 0%) 179.50 0.00 |
+xx Thank You #*#*
 Please Come Again

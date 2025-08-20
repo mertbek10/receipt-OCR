@@ -1,37 +1,28 @@
-all : ; - 7 ae
-3 1 ol OlF
-
 SYARIKAT PERNIAGAAN GIN KEE
 (81109-A)
-NO 290, JALAN AIR PANAS,
+NO 290, JALAN AIR PANAS. |
 SETAPAK,
 53200, KUALA LUMPUR.
 TEL : 03-40210276
 GST ID : 000750673920
 SIMPLIFIED TAX INVOICE
-
-‘CASH
-‘DocNo. . CS00012494 Date: 02/01/2018
-Cashier ’ USER Time: 09:29:00
-Salesperson - Ref. :
-Item ty S/Price Amount Tax _
-1432 1 2.12 212 SR
-GLOVE 1200 (PER PAIR)
-Total Qty: 1 2.12
-Total Sales (Excluding GST) ; 2.00
+Doc No - €S$00012494 = Date’ 02/01/2018
+Cashier USER Time: 09:29:00
+Salesperson Ref. :
+item ty S/Price Amount Tax _
+1432 1 2.12 2.12 SR
+| GLOVE 1200 (PER PAIR)
+| ~~ TotalQty tT £4242 —
+| Total Sales (Excluding GST) : 2.00
 Discount : 0.00
-TotalGST ; 0.12
-Rounding: 0.00
+Total GST . 0.12
+| Rounding 0.00
 Total Sales (Inclusive of GST) : 2.12
-| CASH : 2.12
+CASH : 2.12
 Change : 0.00
-
-‘GST SUMMARY >
-Tax Code A Amt(RM) Tax(RM)
+GSTSUMMARY © |
+Tax Code A Amt(RM) Tax (RM)
 SR 6 2.00 0.12
-
-Total : 2.00 0.121A
-
+Total : 2.00 0.1217
 GOODS SOLD ARE NOT RETURNABLE, THANK YOU
-
-- .
+, |

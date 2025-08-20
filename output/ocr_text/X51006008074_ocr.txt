@@ -3,33 +3,27 @@ PRINT EXPERT SDN BHD
 NO 18, 20, 22, JALAN BUNGA TANJONG 2/16,
 40600 SHAH ALAM, SELANGOR
 TEL 03-55250588
-
 GST ID 000886677504
-
-aa __TAXK esas i
-Receipt # 0048981 Table’ = 13
-
+2 TAX INVOICE
+Receipt# CS00489817 Table 13
 Statf ELYN Date 12/01/2018
-Cashier USER Time 16.57 00
-Doscription Qty Price Amt Tax
-AA CLR COPY 8 063 424 SR |
-Total & 4.24 |
-|
-folal Sales (Exciuding GST) 4.00
+Cashier USER Time 16:57 00
+Description Qty Price Amt Tax
+Ad OUR COPY 8 053 424 SR |
+olai 6 424 |
+(
+folal Sales (Exctuding GST) 4.00
 Discount 0.00
-Service Charge 0.00
-otal GST 624
-Rounding 0.01
-Total Salas (inclusive of GST) 4.25
+| Service Charge 0.00
+fotal GST 6 24
+Rounding 001
+Total Sales (inclusive of GST) 4.25
 CASH 4.30
 CHANGE 0.05
-GSTSUMMARY
-Tax Coda # uty Tax (RM)
-SR 0.24
-
-# indicated this tax code
+TaxCode % Amt(RM) Tax (RM)
+SR é 406 0.24
+Total: 4.00 0.24
+# indicates this tax code belong to service
 charges.
-
-GOODS SOLD ARE NOT RETURNABLE, AT EM NOT
-
-RAL ORTON anne me tear momar es,
+GOODS SOLO ARE NOT RETURNABLE, ITEM NOT
+| PALLISER MAA TIAN) «tare Keahe OP MEnAnE RA

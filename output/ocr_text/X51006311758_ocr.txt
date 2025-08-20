@@ -1,45 +1,36 @@
 TONYMOLY VIVA CITY
-CTONYMULY SHOP (95874))
-UNIT L1-044B, VIVACITY MEGAMALL.,
-JALAN HAN ALHI
-93350 KUCHING, SARAWAK
-O51 ID : 000349356032
-
+(TONYNULY SHOP (95874))
+UNIT L1-044B, VIVACITY MEGAMALL,
+JALAN HAN ALWI,
+93350 KUCHING, SARAWAK.
+O51 1D : 000349356032
 Tay Invoice
 TERMINAL : 880
-SALES NO. . 1807949
-SALES DATE + 29/03/2018 70:37:46
-CASK : Then Fiona
-
-Cian!
-POIN,
-
-EGG PORE bLACKHEAD STEAM BALMZEAC [SR]
-$$04018600 1 * 55.90 55.90
-Jisc 10.00% te}, fs}
-{GG PORE TIGHTENING COOLING PA30g [SR]
-1S04017600 1 * 55,90 55.90
-Hise 10.00% -5, 59
-OUSCOUNT 10% EAC [ZR]
-1 * 0,00 0.00
-
-Ttem Count
-
-Total Sales Incl. GST
-Rounding Adjustment
-otal After Rounding
-
-Card No 46 XxxXXxxxxx 1819
+SALES NO. . 9807949
+SALES DATE : 29/03/2018 70:37:46
+CAS : Then Fiona
+PoIN, :0
+(GQ PORE pLACKHEAD STEAM BALMZ2EAC [SR]
+$$04018600 1 +* 55,90 55,90
+Jisc 10, 00% -5,59
+1G PORE TIGHTENING COOLING PA30g [SR]
+3$0401 7600 1 * 55,90 65.90
+Disc 10.00% -5, 59
+OLSCOUNT 10% EAC [ZR]
+O1S10 1 + 0,00 0.00
+Ttem Count 3
+Total Sales Incl. GST 100. 62
+Pounding Adjustment -0.02
+lutal After Rounding 100. 60
+VISA 100. 60
+Card No 46 xxxxxxxx 1819
 App. Code a0000000031010
-4G XXXXXXXX 1819
-
-O51 summary Amount (RM) Tax(RM)
-
-ZR = 0%
-
-iota! promotional saving
-- inted cn: 29-03-2018 20:38:07
-
-Thask You
-me_Again-=~
-
+4S nepmntinns (Gl Bhesscoceco ssc asem ses soecccesescs
+OST summary Amount (RM) Tax(RM)
+SR = 6% 94, 92 5, 70
+ZR = O% 0. 00 0. 00 :
+iota! promotional saving 11,18
+© inted cn: 29-03-2018 20:38:07
+Thask You site
+Please Come_Again= xf
+_ Peni ses ee i si ag

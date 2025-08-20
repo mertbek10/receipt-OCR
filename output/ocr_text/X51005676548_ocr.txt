@@ -1,38 +1,30 @@
-3 \P O41 oy Os
-
+2 \eP ol O (7 ‘ fy
 SYARIKAT PERNIAGAAN GIN KEE
-(81109-A)
-NO 290, JALAN AIR PANAS,
+(81109-A) ,
+NO 290, JALAN AIR PANAS.
 SETAPAK,
 53200, KUALA LUMPUR.
 TEL : 03-40210276
-GST ID : 000750673920
+GST 1D : 000750673920
 SIMPLIFIED TAX INVOICE
-
-‘CASH
-‘DocNo. . CS00012751 Date. 16/01/2018 —
-Cashier - USER Time: 14:24:00
-Salesperson - Ref. :
-ttem ty, S/Price Amount Tax _
+Doc No CS00012751 Date. 15/01/2018
+Cashier USER Time. 142400
+Salesperson Ref. :
+ttem ty, S/Price Amount Tax_
 2876 3 1.06 318 SR
 HOES PIN
-1937 1 7.95 796 SR
+1937 1 7.95 795 SR
 4' HOES HANDLE
-a TatalQty 4 CTS 7
-e Totai Sales (Excluding GST) 10.50
-Discount : 0.00
-TotalGST : 063
+ge otalQty 4 rs.
+@ Totai Sales (Excluding GST) 10 50
+Discount 0.00
+TotalGST .- 063
 Rounding 0.00
-Total Sales (Inclusive of GST) : 11.13
+Tota! Sales (Inclusive of GST) : 11.13
 CASH : 11.13
 Change : 0.00
-
-GSTSUMMARY  ~—” -
-Tax Code a Amt(RM) Tax (RM)
+GSTSUMMARY © |
+Tax Code % Amt(RM) Tax (RM)
 SR 6 10.50 0.63
-Total : 10.50 0.63 |
-
+Total : 10.50 0.63} -
 GOODS SOLD ARE NOT RETURNABLE, THANK YOU
-
-_
-

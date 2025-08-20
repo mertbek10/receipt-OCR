@@ -1,40 +1,28 @@
-ail
-
-QNE ONE THREE SEAFOOD RESTAURANT SDN BHD
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD
 (1120908-M)
-
 NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM
 43800 DENGKIL, SELANGOR.
 (GST Reg. No : 000670224384)
 Tax Invoice
-
 Table 37
-
-811 1#:¥001-538524 Order#: 138624
+Bi] 1#:V001-538524 Order#: 138624
 Date : 19-05-2018 12:46:58
-
-Cashier: 113 CASHIER Pax(s): 0
-cty Description Total TAX
-| D- 15;00-SR
-Rice w Seafood /Meat Item as
-
-] D 5.00 SR
+Cashier; 113 CASHIER Pax(s): 0
+Qty Description Total TAX
+] D 15.00 SR
+Rice w Seafood /Meat Item Single
+1 D 5.00 SR
 Beverage
-
-] D 20.00 SR
+1 D 20.00 SR
 Noodle Item Single
-total (Excluding GST): 40.00
-
+Total (Excluding GST): 40.00
 GST Payable: 2.40
 Total (Inclusive of GST): 42.40
 TOTAL: 42.40
-iowed: 19-05-2018 14:43:41
-Server: tg CASHIER
-CASH 42.40
-GST eary Amount (RM) Tax(RM)
+Closed: 1 19-05-2018 14:43:41
+Server: 113 CASHIER
+CASH : 42.40
+GST Summary Amount(RM) = Tax(RM)
 SR (@ 6%) 40.00 2.40
-
-| *#e* Thank You #**
+**%* Thank You *#*+**
 Please Come Again
-» mae
-

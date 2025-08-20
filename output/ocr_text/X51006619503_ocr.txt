@@ -1,33 +1,27 @@
-Duplicated Raceint
+Duplicated Receipt
 KEDAI UBAT & RUNCIT HONG
 NING SDN. BHD.
-
-(71 7853-H)
-(GET ID No : 062004143454)
+(71.7853-B)
+(GST ID No : 062604143 454)
 NOS, JALAN LANG KUNING,
-KEPONG BARU,
-
-52106 KUALA LUMPUR.
-
-|
-Tel: 03-4273 2143
-| BillNo : BOSMS6870
-
-Date > QLAQAA 9:29:44 AM
-Cashier : admin
-Baymont : Cash
-Ttom Qty Price Amount
-BROWN CANDY 4003 Bz. ia
-493449770. 2 730 3.4u ZRL.
-3 LUG HAN GUO ® 2 42
-&TO31 2 3.00 &R.
-Mut Art @ GHTO% « 3
-Cash Paid: § OG
-Card Paid: G00
-Change : Otis
-Adund Adj. : 0.00
+| KEPONG BARU,
+527106 KUALA LUMPUR.
+Tol: 03-4273 2143
+BillNo =: BOS/64870
+| Date : 21A2ANG 9:29:44 AM
+Cashier =: admin
+Payment : Cash
+Item Qty Price Amount
+BROWN CANDY 4600G @7. 56
+693449770. 7 ym) 3. ZRL.
+SW RLUG HAN GUO (By @1.42
+§TO31 2 1.3464 3.00 §R
+Mut Amt GATE . Sa
+Cash Paid; 8.06
+Card Paid: 6.00
+Change : O.0
+Réund Adj. : 0.00
 G&T Summary Amount Tax
-&RS% 2.83 17
-ZEL @0% Stith 8.00
+ER@A% 2.83 0.17
+ZEL @0% 5.06 6.00
 THANK YOU
-

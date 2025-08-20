@@ -1,52 +1,33 @@
-Cele R
-— MBB 96h 100
-
+— MBB 964 100
+fo
 KEDAI PAPAN YEW CHUAN
-(0005583085-k)
-
+(0005583085-K)
 LOT 276 JALAN BANTING
-43800 DENGKIL, SELANGOR.
-
+43800 DENGKIL, SELANGOR
 TEL : 03-87686092 FAX : 03-87686092
 GST ID : 000781500416
--—___________TAX INVOICE _
-Bill To :
+——— ______TAXINVOICE
+Bill To:
 SUC] ALAM JAYA TRANSPORT
 NO 1 JALAN AMAN 2
 TAMAN DESA 43800
 DENGKIL SELANGOR
 017-6057770
-‘Doc No CS00010930— Date: 1770372078
-
-Cashier : USER Time: 15:02:00
-Salesperson Ref.:
-
-oo (GST) (GST)
+‘DocNo ——«s~CS00010930 ~~~ ate. 17/03/2078
+Cashier ’ USER Time: 15:02:00
+Salesperson - Ref.:
 jtem Qty _S/Price S/Price = Amount Tax
 100088 3 55.00 58.30 174.90 SR
-
-B.R.C A10 1.7X4M
-“Total Qty GS
-
+BRC AI01.7X4M
+~TotalQty SO FGI
 Total Sales (Excluding GST): 165.00
-
-Discount : 0.00
-
+Discount - 0.00
 TotalGST : 9.90
-
 Rounding : 0.00
-
 Total Sales (Inclusive of GST) : 174.90
-
 CASH : 200.00
-
 Change : 25.10
-
 GST SUMMARY —
-
-Tax Code % Amt(RM)  Tax(RM)
+Tax Code % Amt(RM) Tax (RM)
 SR 6 165.00 9.90
-Total : 165.00 9.90
-
-GOODS SOLD ARE NOT RETURNABLE, THANK YOU.
-
+GOODS SOLD ARE NOT RETURNABLE, THANK YOU

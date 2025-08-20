@@ -1,25 +1,23 @@
 Ampang 210
-
 First City Parking Sdn Bhd
-(961394-x) ~
-
-A-08-10 Prima Avenue
-Tre Tube, 1/39, Dataran Prima
+(961394-x) ~”
+A-09-10 Prima Avenue
+The Tube, 1/39, Dataran Prima
 47301 Petaling Jaya
-Seftangor DE
+Selangor DE
 (GST ID No : 001656262656 )
-Tel : 08-7887 2622
-
-Tax Imvoice
-
-*/S #03 A INV-No. 2003160418000001
-(/0 #22 Ticket No.071811
+Tel : 03-7887 2622
+Tax Invoice
+7/S #08 A INV-No. 2003160418000001
+7/0 #22 Ticket No.071811
 intry Time 16/04/2018 (Mon) 8:21
-Paid Time 16/04/2018 (Mon) 9:49
+aid Time 16/04/2018 (Mon) 9:49
 -arking Time 1:28
--arking Fee Rate A RM7
-Amount RM6.
-3$TCIncluded) 6.00 % RYO
-
-Inclusive 64 GST
+-arking Fee Rate A RM7.00
+\mount RM6. 60
+STCInciuded) 6.00% Reo. 40
+Total PM7.00
+Faid RM7.00
+Change RMO.00
+Inclusive 6% GST
 Tnark You

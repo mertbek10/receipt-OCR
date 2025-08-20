@@ -1,101 +1,43 @@
-HO
-Bill No: 1863
-
-Sevr By : manager-’
-
-RESTORAN SIAM VILLAGE
+OL g ¢
+RESTORAN SIAM VILLAGE 4
 No. 8, Jalan Permas 10/7,
-Permas Jaya, 81750 Johor Bahru.
-Tel: 013-7279552
-
-- Cash Receipt
-
-Create Time: 27/04/2019
-
-Description
-
-~ Table
-
-Total (RM)
-
-BS
-
-ta
-
-bo
-
-to
-
-13
-
-BC001 CLAYPOT F/TOFU
-
-C004 STIR RED CURRY
-@RM18.90
-
-DROO1C THAI ICE TEA
+Permas Jaya, 81750 Johor Bahru. | |
+, Tel: 013-7279552 | | :
+| _ Cash Receipt _
+HQ Table
+Bill No: 1863 |
+Sevr By; manager- )
+Create Time: 27/04/2019 |
+Qty Description Total (RM) |
+| ! BCOO1 CLAYPOT F/TOFU 18.90
+2 C004 STIR RED CURRY 37.80 |
+| @RM18.90
+2 DROOIC THALTICE TEA 13.80.
 @RM6.90
-
-DROO2C THAI ICE GREEN
-@RM6.90
-
-SD002 THAI STYLE
-/ACACIA LEAF
-
-$Q003L STEAMED SQUIDS
+2 DRO02ZC THAT ICE GREEN 13.80
+° @RM6.90
+| 1 SD002 THAI STYLE 16.00
+/ACACTA LEAF
+1 S$Q003L STEAMED SQUIDS 32.00 .
 I
-
-T0028 SPICY THAI TOM
+2 T0028 SPICY THAI TOM $0.00
 AFOOD (3)
-
-@RM25.00
-
-V001 FRIED KANGKUNG
-V002 S/FRIED KAILAN
-
+@RM25.00 , | :
+1 V001 FRIED KANGKUNG 16.90
+1 V002 S/FRIED KAILAN 18.90
 D FISH
-
-W003 THAI STYLE
+2 W003 THAI STYLE _ 31.80 .
 PRAWN
-
 @RM15.90
-
-W006 WHITE RICE (PER
-FILL)
-
+| 13. W006 WHITE RICE (PER 26.00 ;
+FILL) ;
 @RM2.00
-
-13.80
-
-13.80
-
-16.00
-
-32,00
-
-50.00
-
-16.90
-18.90
-
-31.80
-
-26.00
-
-SUBTOTAL:
-
-Type: [1 Qty: 28
-
-Bill Total :
-Rounding Adj. :
-
-NET TOTAL ;:
-CASH
-
-Thank You!
-
-275.90
-
-Please Come Again
-
-mandger-
+28  S§UBTOTAL: 275.90 |
+Type: 11 Qty: 28 :
+Bill Total : 275,90
+Rounding Adj. : 0.00
+| NET TOTAL ; : 275.90 |
+| . CASH 275.90 ' |
+Thank You! - :
+| Please Come Again
+mandger~ -

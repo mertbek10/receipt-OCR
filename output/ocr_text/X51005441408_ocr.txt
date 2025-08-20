@@ -1,42 +1,25 @@
 32 PUB & BISTRO own by CNU TRADING
-78, JALAN SS21/62,
+78G, JALAN SS21/62,
 DAMANSARA UTAMA,
 47400 PETALING JAYA.
 (GST Reg. No : 000416321536)
-
 Tax Invoice
-
 Table 5
-
 INV No. 504233 Pax(s): 0
-Nate +: 10-03-2018 23:03:06
+Date +: 10-03-2018 23:03:06
 Cashier: CHEN
-
-Descr int ion ity us price _Total tax
-
-HETNEKE N (5 BTL)
-2 x a 1. 00 sh
-
-Total Geeniting, GS SSI):
-
-GST Payable:
-Total (Inclusive of GST):
-
-TOTAL:
-
-Closed: 32 11-03-2018 00: 32: 02
-
+Description Qty  U.price Total TAX
+HEINEKEN (5 BIL)
+2x 95.00 190.00 SR
+lotal (Excluding GST): tm.aS
+GST Payable: 10. 75
+Total (Inclusive of GST): Aen. 00
+Closed: 32 11-03-2018 00:32:02
 Server: CHEN
-
-CASH : 200. 00
-
+CASH - 200. 00
 CHANGE : 16. 00
-
 GST Summary Amount (RM) Tax (RM)
-
-SR (@ 6%) 171.95 10.18)
+SR (@ 6%) 171,96 10.15
 kK
-
-KK Hank You 8K
-~ Dla A
-
+yocie Thank You 0
+~~ mo an Bama Annin

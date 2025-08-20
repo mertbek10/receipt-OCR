@@ -3,25 +3,19 @@ RESTORAN WAN SHENG
 No.2, Jalan Temenggung 19/4,
 Seksyen 9, Bandar Mahkota Cheras,
 43200 Cheras, Selangor
-GST REG NO $5) /B7H20
-
+GST REG NG ils 20
 Tax Invoice
-
 INV No.: 1170190 Cashier: Nicole
-Date : O1- “06 ang 18: at: 08
-
-Qeser ition “ty U. rice “Total Ta
-
-Chan (B)
-ox 2,20 4.40 ZRL
-
-2x 0.20 4.40
-
-Jake Away
-
-Total (Excluding GST): 4.80
-total (ine lusive of GST): 4.80
-TOTAL 40.80
-GS? Summary Amount (RM) Tax(RM)
-ZRL (@ 0%) 4.80 0.00
-
+Date  : 01-06-2018 18:21:09
+ flescription Qty  U.price Total TAX
+Cham (B)
+2°y 2.20 4.40 ZRI
+jake Away
+2x 0.20 4.40 .)
+Total QTY: 4
+Total (Excluding GST) 4.80
+fota! (Inclusive of G&1): 4.80
+TOTAL: 40.80
+CASH : 40.80
+GST Summary Amount(RM) = Tax(RM)
+ZRL. (@ 0%) 4.80 0.00

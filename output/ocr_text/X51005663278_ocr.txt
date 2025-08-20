@@ -1,34 +1,27 @@
-2181) ol2
-
+218k ot2
 TKANO HANDEL SDN BHD
 (1074617k)
-
 IKEA Cheras
 No 2A Jalan Cochrane
 Taman Maluri
-55100 KUALA [LUMPUR
+55100 KUALA LUMPUR
 GST No.: 000115154944
-
+; a
+WINE 23//p
 Slip: 0000000111000995667
 Date: 23/12/17
 Time: 7:13
-Trans: 411395068 Staff: 95651
-
-Description Amount TX
-910347623 Almond ak 22.50 SR
-999900245 IKEA Retai 36.00 SR
-BSs987000 TKEA Drink 1,00 8k
-
-g9ggcu70| fark Chocolate 70% U
-2 pe « 6.90 13,80  §R
-
-Total RM ‘ncluding GST 6x 73.30
-
-Rounding 41). 0.00
-Total Rowwiided 13.30
-Cash -713.30
-
-GST SR Oh 13.36 4.187
-Amt. Excl. GST 69,15
-
+Trans: 41139068 Staff: 95651
+Description Amount 1X
+910347623 Almond °ak 22.50 SR
+939900245 IKEA Retail 36.00 SR
+ggggcu/0! ark Chocolate 70% U
+2 po 4 6.90 13.80 SR
+Total RM !ncluding GST 6% 13.30
+Rounding 4). 0.00
+Total Rowied 73.30
+Cash -13.30
+GST SR Ur 13.36 4,15 7
+Amt. Excl. GST 69.15
+No. of Items 5
 Thank you. Please come again.

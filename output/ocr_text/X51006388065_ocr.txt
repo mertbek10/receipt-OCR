@@ -1,11 +1,9 @@
-o
-
-BOND
-
-ti
-
-bolt
-
-RADU, 8
-2
-
+< ‘
+3
+F
+: Lin
+99 SPEED MART 5/B (S39537-x)
+S180 KLANG, SELANGOR
+INVOICE NO ; 12¢139/103/76200 >
+@2 K RK 10,40
+\\)

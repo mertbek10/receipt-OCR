@@ -1,41 +1,32 @@
+" AdLoge ) :
 UNIHAKKA INTERNATIONAL SDN BHD
 17 Apr 2018 18:44
-
-(867388-U)
+(867388-U) )
 12, Jalan Tampoi 7/4,Kawasan Perindustrian
-Tampoi,81200 Johor Bahru, Johor
-TAX INVOICE
+Tampoi,81200 Johor Bahru, Johor )
+) TAX INVOICE )
 Invoice # : OR18041702170490
-
-Item Qty Total
+Item Qty Total |
 SR 100100000001- Chicken
-
 $2.70 2 $5.40
 SR 100100000015- Vegetable
-
-$1.10 2 $2.20
-SR 100100000057-Fried Noodle (L)
-
+7 $1.10 2 $2.20
+. SR 100100000057-Fried Noodle (L) ,
 $3.00 1 $3.00
+‘Total Amount: $10.60 °
 
-‘Total Amount: $10.60
 GST @6%: $0.60
-Nett Total: $10.60
-
+SS Nett Total: $10.60
 Payment Mode Amount
 
-CASH $10.60
+CASH $10.60 .
 
 Change $0.00
-
-GST Summary Amounit($) Tax($)
-
+GST Summary Amouni($) Tax($)
 SR = GST @6% 10.00 0.60
-GST REG #000656195584
-
+GST REG #000656 195584
 BAR WANG RICE@PERMAS JAYA
-(Price Inclusive Of GST)
+(Price Inclusive Of GST) ,
 Thank You & Come Again!
-
-Like and Follow Us on Facebook!
+Like and Follow Us on Facebook! .
 Facebook.com/BarWangRice

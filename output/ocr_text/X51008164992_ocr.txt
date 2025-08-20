@@ -1,40 +1,34 @@
+Elz)
+|
 ONE ONE THREE SEAFOOD RESTAURANT SDN BHD
-(1120908~-M)
-NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM
-43800 DENGKIL, SELANGOR,
-(GST Reg. No : 000670224334)
+(1120908-M)
+~ NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM
+43800 DENGKIL, SELANGOR.
+(GST Reg. No : 000670224334}
 Tax Invoice
 Table 31
-3311#:¥001-539327 Order#; 139430
-@ + 30-05-2018 13:45:46
-
-Cashier; 113 CASHIER Pax's): 0
-Qty Deseription Total TAX
-| D 15.00 SK
+341 1#:V001~-539327 Order#: 159430
+Ve: 30-05-2018 13:45:46
+Cashier: 113 CASHIER Pax's): 0
+Qty Description Tota] TAX
+| D 15,00 SR
 Chicken Item
-
 | D 46.00 SR
 Fish Item
-
-] D 12.00 Sk
+] D 12.00 SR
 Vege item
-
-| : 0 4,50 SR
+] 0 4,50 SR
 White Rice
-
-| D 5.00 SR
-
-erage
-
-Total (Excluding GST) 82.50
-GST Payable: 4,95
-Total (inclusive of GST): 87.45
-TOTAL: 87.45
-Closed: 1 30-05-2018 14:39:47
-Server: 113 C°SHIER
-CASH : 87.45
-GST Summary Amount(RK) = Tae(RM)
-Nid (u 82.50 4.95
-
-**kK Thak You *#«
-Please ome Again
+; 0D 5.00 SR
+overage
+Total (Excluding GST): 82.50
+GST Payable: 4.95
+Tota] (Inclusive of GST): 87.45
+TOTAL: S245 ,
+Closed: 1 36-05-2018 14:39:47
+Server; 113 C°SHIER
+CASH : 87.45 |
+GST Summary Amount(RM) — Tav(RM) |
+Nid (@ 82.50 4.95 |
+Wa *#4% Thak You #Fre
+oF Please “owe Again

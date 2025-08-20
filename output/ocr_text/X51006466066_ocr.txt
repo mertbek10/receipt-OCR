@@ -1,56 +1,40 @@
-Custyuar— Runt Stliind ler
-
+Cot tous — hatahr Stluind ler
 Jasur
-3180404
-
-McNTAC INITIAL SDN BHD (1206674~T)
-SUSHI MENTAT PLAZA DANAU
+3180404 . . ;
+MeNFAL INITIAL SON BHD (1206674-1)
+SUSHI] HENTAI PLAZA DANAU
 NO.37-1, PLAZA DANAU DESA 2,
-JALAN 1OGF, TAMAN DANAU DESA,
+JALAN TOU, TAMAN DANAU DESA,
 58100 KUALA LUMPUR.
-
-(GST Reg. No ; 000435761152)
-
+(G51 Reg. No ; 000435761152)
 Tax Invoice
-
-7”
+-
 fable 12
-urdert: 152842
-Billa: VO31- 561345 Pax(s): 0
+urdere: 152842
+Billa#: VO31- 551345 Pax(s): 0
 Date =: 21-04-2018 20:40:32
 Cashier: Khong
-
 Description Qty U.price Total TAX
-
 Green Tea
-
 2x 1.00 2.00 SR
 Shira Ramen
-
-x 12.80 12.80 SR
+1x 12.80 12.80 SR
 Sushi 1.30
-
 10 x 1.80 18.00 SR
-
 Sushi 2.80
-4 1x 2.80 2.80 SR
-latal (Excluding GS1): 35.60
+2 1x 2.80 2.80 Sk
+Total (Excluding GS): 35.60
 Serv. Charge (10%): 3.56
-GS1 Payable: 2.36
+GS) Payable: 2.36
 Total (Inclusive of GST): 41.52
 Rounding Adj: -0.02
-
-TOTAL: 41,50
+TOTAL: 41.50
 Closed: ;201601897 21-04-2018 21:09:20
 Server: Khong
-
 VISA 41.50
-
-GST Sumaary Amount(RM) = Tax(RM)
+GST Sumiary Amount(RM) = Tax(RM)
 SR (@ 6%) 39.16 2.36
-
 (Guest Signature)
-
 Thank you!!!
 Please Come Again!!!
-Powered By WHH.SISPOS.COM.MY
+Powered By WHW.SISPOS.COM.MY

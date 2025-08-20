@@ -1,41 +1,29 @@
-7
-
 Banh Mi Cafe
-Dimiliki: banh mi cafe sdn bhd 1110644-¥
+Dimiliki: banh mi cafe sdn bhd 1110644-#
 No. 1 Jalan Puteri 7/16
 Bandar Puteri, 47100 Puchong
 Selangor, Malaysia
-(GST Reg. No + 006306700283)
+(GST Reg. No ; 000306700283)
 GUEST CHECK
 Table A
 INV No.: 153887 Pax(s): 2
 Date : 29-10-2017 18:31:45
-Cashiers basher A
-
-Qty _beseription Tatal TAX
-
-] is) SUONG NON RAM CHUA 9.90 SR.
-Sweat &Sour Pork Ribs
-
+Cashier: Cashier A
+Qty Oeseription Total TAX
+1 205 SUONG NON RAM CHUA 9.90 SR
+205 Sweet &Sour Pork Ribs
 1 217 Tau Hu Gorn Thit Chi 9.99 SR
-217 Stuff Meat Yau Fu
-
 1° 605 TRA DA 1.50 SR
-605 Vietnamese Lced ie
-
-Total (Bxoluding ast): 21.30
-
+605 Vietnamese Lced Tea
+Total (Excluding GS): 21.30
 Serv. Charge (3%): 0.65
 GST payable (6%): 1.31
 Total (Inclusive of GST): 23.26
-Rounding fas ~0.07
-C'loead: 29-10-2017
-
+Rounding Adj: ~0.07
+TOTAL: 23.25
+Closed: 29-10-2017
 Server: Cashier A
-
-ast shiney * Amount (RM) Tax(RM)
-
+GST Summary Amount(RM) = Tax(RM)
 Inquries: 012-3225548
-Like us @ Facebook: banhmik1
-Email : banhmicafel@gnail.com
-
+Like us @ Facebook: banhmik]
+Email : banhmicafel@gmail .com

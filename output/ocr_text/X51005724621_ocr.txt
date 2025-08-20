@@ -1,52 +1,37 @@
-R
-
 KEDAI PAPAN YEW CHUAN
 (0005583085-k)
-
 LOT 276 JALAN BANTING
-43800 DENGKIL, SELANGOR,
-
+43800 DENGKIL, SELANGOR.
 TEL : 03-87686092 FAX : 03-87686092
 GST ID : 000781500416
-
-a TAX INVOICE
-
-Bill To :
-
-SUCI ALAM JAYA TRANSPORT
-
-NO 1 JALAN AMAN 2
-
-TAMAN DESA 43800
-
+TAX INVOICE
+| Bill To
+| SUCI ALAM JAYA TRANSPORT
+~ NO 1 JALAN AMAN 2
+_ TAMAN DESA 43800
 DENGKIL SELANGOR
-
 017-6057770
-‘Doc No. * CS00010527- Date: 06/03/2078
+BocNo. | CS00010527 Date: 06/03/2018
+Cashier ’ USER Time: 08:58:00
+Salesperson . Ref
+——__——
+(GST) (GST)
 
-Cashier : USER Time: 08:58:00
-Salesperson ; Ref.:
-(G8T)’ (GST)
-_ltem Qty _S/Price  S/Price Amount Tax
-101869 2 60.00 63.60 127.20 = SR
+_ltem Qty _S/Price S/Price Amount Tax
+101869 2 60.00 63.60 127.20 SR
 PASIR KASAR (D)
-| Total Qty: 2 12720
-Total Sales (Excluding GST) : 120.00
-Discount : 0.00
-Total GST : 7.20
+
+~ TotalQty 2 12720777
+
+| Total Sales (Excluding GST) : 120 00
+Discount 0.00
+TotalGST : 7.20
 Rounding : 0.00
-
 Total Sales (Inclusive of GST) : 127.20
-
 CASH : 150.00
 Change : 22.80
-
 GST SUMMARY
-Tax Code %
-SR 6 120.00
-Total : 120.00
-
-GOODS SOLD ARE NOT RETURNABLE, THANK YOU,
-
-zz
-
+Tax Code % Amt(RM) Tax (RM)
+SR 6 120.00 7.20
+Total : 120.00 7.20
+GOODS SOLD ARE NOT RETURNABLE, THANK YOU.

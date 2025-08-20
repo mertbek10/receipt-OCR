@@ -1,47 +1,34 @@
-t
-
--ealive
-
+2 ’
+Your order number is
+t |
+‘ealive
 CT281 - Tealive Shell Kepong
 Ottogo Enterprise
-
 002570632-X
-
-GST 1D:001018802176
+GST 1D'001018802176
 SHELL STATION PT15944, Mukim
 Batu,
 Jin Besar Kepong
-
 TAX INVOICE
-Counter: 7290 Take Away
-Bill No: 394024495 COMPLETED
-Date: 21/01/2018 15.4609
-Sales Remarks.
-
-ItemName ty Price(RM)
-
+Counter’ 7290 Take Away
+Bill No. 394024455 COMPLETED
+Date: 21/01/2018 15 46 09
+Sales Remarks
+ItemName YY PriceiRM)
 Hazelnut Coco -L 1 750 SR
 ‘Pearl 1 1.10
-
-Sub Total = RM8.60.
-Rounding  RMO.00
-
-Total Sales Incl GST @ 6% RM8 60
-
+oe SubTotal = RM8 60
+Rounding RMO.00
+Total Sales Incl GST @ 6% — RMB 60
 Cash 8.60
-
-Tendered 9.00
-
+Tendered 900
 Change 0.40
 Code Amount Tax
 SR @ 6% 8.12 0.48
-
 You have just missed out 8 points
 Sign up for a Tealive UniTea Card
 today to enjoy exclusive member
 promotions and collect BPoints to
 redeem on future purchases
-
 Thank You Please Come Again
-Printed at:21/01/2018 15:46:09
-
+Printed at:21/01/2018 15:46:0

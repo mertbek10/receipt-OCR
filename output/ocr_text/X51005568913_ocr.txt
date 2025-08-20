@@ -1,29 +1,25 @@
-EL lll eee
-
-————
-TKANO HANDEL SDN BHD
+rs
+IKANO HANDEL SDN BHD
 (1074617K)
-
 IKEA Cheras
 No 2A Jalan Cochrane
-
 Taman Maluri
 55100 KUALA LUMPUR
 GST No.: 000115154944
-
-Slip: 00000000110001:36498
-Date: :
-
-Time: 1:1
+Slip: 0000000011000136498 it”
+Date: 27/07/17
+Time; 1:12
 Trans: 311136194 Staff: 95837
-
-50346155 BOSTRAK WRD 80X50X18
+Description Amount TX
+50346155 BOSTRAK WRD SOX5OX18
 2 pe @ 269.00 538.00 SRS
-
-Total RM Including GST 6% 538.00
+Total RM Including GST 6X 538.00
 Rounding Adj. 0,00
-Total Rounded 538 ,00
-
+Total Rounded 538,00
+Visa -§38.00
 GST SR 6% 538.00 30.45
 Amt, Excl, GST 507.55
-
+No. of Items 2
+~~ Thank you. Please come again.
+UNPAID Me
+#73620000011000136498+

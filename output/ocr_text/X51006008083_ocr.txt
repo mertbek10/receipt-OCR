@@ -1,50 +1,31 @@
-PRINT EXPERT SDN BHD
-(989625-A)
-NO 18, 20, 22, JALAN BUNGA TANJONG 2/16,
+PRINT EXPERT SDN BHD 13
+(989625-A) =
+NO 18, 20, 22, JALAN BUNGA TANJONG 2/16 T
 40000 SHAH ALAM, SELANGOR
 TEL : 03-55250588
 GST ID : 000886677504
-
-= ___TAX INVOICE _ teas oie
-Receipt#: CS00534200 Table: 106
-
-Staff: LEO Date: 26/03/2018
-Cashier: __USER Time: 1632.00
-Description Qty Price Amt Taw
+eee aennenanee TAXINVOICE Siem nies =
+Receipt#. CS00534200 Table’ ~—«105 (a
+Staff LEO Date: 26/03/2018
+Castle, USER Time:__ 153200 =
+Description _—s Qty Price Amt Tax —
 FLYERS IVORY A5 40 082 3265 SR
-MIRRORKOTE DIECUT pan 202 4.35 86.82 SR
-
-Tota: =—i(tsé‘«éi 119.57
-
-Total Sales (ExcludingGST) : 112.80
-
+MIRRORKOTE DIECUT 20 4.36 8692 SR
+Denn Ota MECC. 110.07 ca. me
+Total Sales (Excluding GST) 112 80
 Discount : 0.00
-
 Service Charge 0.00
-
-Total GST : 6.77
-
-Rounding -0.02
-
+Total GST 677
+Rounding -0.02 tus
 Total Sales (Inclusive of GST) 119.55
-{000031013140} VISA 119.55
-CHANGE 0.00
-
-web @ Amt{RM) Tax (RM)
-112.80 6.77
-
-Total : 112.80 6.77
-
-# indicated this fax code “belong to service
-charges.
-
+{000031013140} VISA 119.55 atu
+CHANGE 0.00 lon
+—
+i z
+TaxCode % AmtiRM) Tax (RM)
+SR 6 112 80 6.77
+! Total : 112.80 i i
+# indicated this tax code belong to service
+charges. >
 GOODS SOLD ARE NOT RETURNABLE, ITEM NOT
-COLL ECTEN MORK THAN 1 MONTHMAIL! Gc niennecr
-
-4 Pe
-
-a ie 5 ree
-
-axl
-
-|
+COILECTEN MORE THAN 4 MQNTU LAN Ge Renner

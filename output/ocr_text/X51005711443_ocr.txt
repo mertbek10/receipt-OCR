@@ -4,29 +4,23 @@ No.2, Jalan Temenggung 19/9,
 Seksyen 9, Bandar Mahkota Cheras,
 43200 Cheras, Selangor
 GST REG NO: 001335787520
-
 Tax Invoice
-
 INV No.: 1057981 Cashier: Thandar
-Date +: 23-03-2018 13:28:55
-
+Date : 23-03-2018 13:28:55
+Description Qty  U.price Total TAX
+Teh (B)
 1 x 2.20 2.20 SR
-1x 2.20 2.20 SR
-1x 11,70 11,70 SR
-
 Cham (B)
-
+1 x 2,20 2.20 SR
 Bunga Kekwa
-
+1x 11,70 11.70 SR
 Take Away
-
-Xx 0.20 0.60 SR
+3x 0.20 0.60 SR
 Total QTY: 6
 Total (Excluding GST): 16,33
 GST payable (6%): 0.37
-Total (Inclusive of GST): 16.70
+Total (Inclusive of GST): 16,70
 TOTAL: 16.70
 CASH : 16.70
 GST Summary Amount(RM) — Tax(RM)
 SR (@ 6%) 16.33 0,37
-

@@ -1,42 +1,33 @@
-ws. AO
-fa |
-
-‘ DSCs fs
-
 UNIHAKKA INTERNATIONAL SDN BHD
-10 May 2018 12:32
-
-(867388-U)
+10 May 2018 12:32 7
+(867388-U) ;
 12, Jalan Tampoi 7/4,Kawasan Perindustrian
-Tampoi,81200 Johor Bahru, Johor
+Tampoi,81200 Johor Bahru, Johor |
 TAX INVOICE
-Invoice # : OR18051002160062
-
+Invoice # : OR18051002160062 ;
 Item Qty Total
-SR 100100000060- 4 Vege ~
-
-$5.50 { $5.50
-SR 100100000009- Seafood (M)
+“SR 100100000060-4Vege ss a t—~S
+$5.50 1 $5.50
+.' SR 100100000009- Seafood (M)
 $4.80 1 $4.80
+Total Amount: $10.30 .
 
-Total Amount: $10.30
 GST @6%: $0.58
 Nett Total: $10.30
 
 Payment Mode Amount
 
-CASH $10.30 ~
+CASH $10.30
 
-Change , $0.00
+Change $0.00
 
 GST Summary Amount($) Tax($)
 
-SR = GST @6% 9,72 0.58
-GST REG #000656195584
+SR = GST @6% 9.72 0.58
 
+GST REG #000656195584 ,
 BAR WANG RICE@PERMAS JAYA
 (Price Inclusive Of GST)
 Thank You & Come Again!
-
-Like and Follow Us on Facebook!
-Facebook.com/BarWangRice
+Like and Follow Us on Facebook! ;
+Facebook.com/BarWangRice 7

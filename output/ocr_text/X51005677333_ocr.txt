@@ -1,40 +1,31 @@
-3 1~POdOIG
-
-’
-
+Yr1POds0IG ,
 SYARIKAT PERNIAGAAN GIN KEE
-
 (867388-U)
 12, Jalan Tampoi 7/4 Kawasan Perindustrian
 Tampoi,81200 Johor Bahru, Johor
 TEL : 03-40210276
 GST ID : 000750673920
 SIMPLIFIED TAX INVOICE
-
-CASH
-Doc No. C$00013065 Date: 31/01/2018
-Cashier : USER Time: 10.41.00
-Salesperson . Ref. :
-Item Qty, S/Price Amount Tax
-3122 2 29.68 59.36 SR
-(W33) 105MM/4' CUTTING DISC
-3383 10 3.18 31.80 SR
-4" MAGIC SAND PAPER
-1612 4 10.60 10.60 SR
+Doc No CS00013065 Date: 31/01/2018
+Cashier USER Time: 10.41.00
+Salesperson Ref. :
+Item ty Price Amount Tax_
+3122 2 29.68 59.36 SR ,
+| (W33) 105MM/4' CUTTING DISC |
+| 3383 10 3.18 3180 SR ©
+4" MAGIC SAND PAPER |
+1512 1 10. 60 10.60 SR
 104 COTTON GLOVE (DOZEN)
-y TotalQty = =130 0° °¢©=©——t—<“<i<i‘<«Ca TG
-Total Sales (Excluding GST) : 96.00
-Discount : 0.00
-TotalGST 5.76
+@ “Totaly =13 = =—)—(o 101760
+Total Sales (Excluding GST) 96.00
+| Discount 0.00
+Total GST 5.76
 Rounding 0.00
 Total Sales (Inclusive of GST) : 101.76
 CASH : 101.76
 Change : 0.00
-JOST SUMMARY re
-Tax Code % Amt(RM)  Tax(RM)
-| SR 6 96.00 5.76
+jest SUMMARY
+Tax Code % Amt(RM) Tax(RM)
+| SR 6 96 00 5.76
 | Total : 96.00 5.76
-
 GOODS SOLD ARE NOT RETURNABLE, THANK YOU
-
-~ -

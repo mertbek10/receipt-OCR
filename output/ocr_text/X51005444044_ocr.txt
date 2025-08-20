@@ -1,21 +1,18 @@
-99 SPEED MART S/B (519537-X)
+Re ee
+|
+99 SPEED MART S/B (519S37-X)
 LOT P.7. 2811, JALAN ANGSA,
-TAMAN BERKELEY
+; TAMAN BERKELEY
 41150 KLANG, SELANGOR
-1572-THN BRKT PANDAN
-"GST ID. NO s 000181747712
-INVOICE NO : 18332/103/T0157
-
+: 1572-TMN BKT PANDAN
+GST ID. NO : 000181747712
+INVOICE NO : 18332/103/T01S7
 02:27PM $70285 10-03-18
-
-Total Sales (Inclusive 6ST) RM 5.35
-
-CASH RM 6.00
-
-CHANGE RM 6S
-
-GST Summary Amount (RA) Tax (RM)
-s = by 5.05 30 |
-
-Thank You. Please come again
-Keep the invoice for anplicable returns
+104 SUNQUICK OREN 330ML RMS.35 =
+Total Sales (Inclusive GST) RM 5.35
+; CASH RM = 6. 00
+CHANGE RM 65
+GST Summary Amount (RM) Tax(RM)
+s = 6/ 5.05 30 |
+Thank You. Please come 39a1n
+Keep the invoice for applicable returns

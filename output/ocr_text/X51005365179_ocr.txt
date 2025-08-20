@@ -1,30 +1,25 @@
-3-1707067
-
 (481500-M)
-
-Cc W KHOO HARDWARE SDN BHD
-NO.50 , JALAN PBS 14/11,
+CW KHOO HARDWARE SDN BHD
+NO.50, JALAN PBS 14/11,
 KAWASAN PERINDUSTRIAN BUKIT SERDANG,
 Tel : 03-89410243 Fax : 03-89410243
 GST Reg No. : 000549584896
-
 Tax Invoice
-
 Invoice No. —: CR 1803/0064
-
 Date 1 01-03-16 5:23:26 PM
 Cashier No. —: khoo
-Counter No, ‘cl
+Counter No. : cl
 Printed Date : 01-03-16 5:23:30 PM
-
-5 Item(s) Total (MYR) : 20.00
-GST @ 6% : 1,20
-Net Total (MYR): 21.20
+Ttem Name Qty Unit Price Amount
+AIR ADAPTOR @ 1
+S 4.00 20.00 sr
+ape a ws eee mn Ce
+GST @ 6% : 1.20
+Net Total(MYR): 21.20,
 Rounding Adj. : 0.00
-Net Total Rounded (MYR): 21.20
-Cash : 21.20
-Change iin 0 00
-
-SR @ 6%
-
-Thank You. Please Come Again !
+Net Total Rounded (MYR): 21.20 |
+Cash z 21,20
+Change 4 0.00
+GST Summary ————sitem =~Amount (MYR) 3ST (MYR)
+SR @ 6% AE 20.00 1.26
+Thank You. Please Come Again |

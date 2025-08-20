@@ -1,35 +1,28 @@
-Hogi ur Wal eH Pap Ei
-
 SYARIKAT PERNIAGAAN GIN KEE
-(81109-A)
+(81109-A)}
 NO 290, JALAN AIR PANAS.
 SETAPAK,
 53200, KUALA LUMPUR.
-TEL : 03-40210276
+TEL ° 03-40210276
 GST ID : 000750673920
-SIMPLIFIED TAX INVOICE
-
-| (CASH
-| Doc No. » €S00011983 Date: 04/12/2017
-| Cashier ’ USER Time: 16:15:00
-Salesperson . Ref. :
-you Baty isipricen _Amount Tax_
-1476 45.90. 4770 SR
-{ 25KG SIKA CREAM ele a Sei
-“Total Qty: 3 = 4T-TO
-Total Sales (Excluding GST) : 45.00
-| Discount *: 0.00
-| Total GST : 2.70
+| SIMPLIFIED TAX INVOICE
+CASH = AGRIC Se ee
+Doc No €S00011983 Date’ 04/12/2017
+Cashier USER Time: 16:1500
+Salesperson Ref. :
+an Qty S/Price Amount Tax
+| 1a7e “3. 44690 4770 SR
+| 25KG SIKA CREAM -88 peek ia
+|: Spee otel Chtyimeansd me oy
+i Total Sales (Exctuding GST) - 45.00
+Discount : 0.00
+| Total GST °: 2.70
 i Rounding : 0.00
-Total Sales (Inclusive of GST) : 47.70
-| CASH : 47.70
-Change : 0.00
-
-i GST SUMMARY
-
-Tax Code % Amt(RM) Tax (RM)
-SR 6 45.00 2.70
-
+| Total Sales (Inclusive of GST) : ( 47.70 )
+| CASH: 47.70
+| Change : 0.00
+GST SUMMARY ae ed
+| Tax Code bi Amt(RM) Tax (RM)
+} SR 6 45.00 270
 Total : 45.00 2.7)
-
-GOOUS SOLD ARE NOT RETURNABLE, THANK YOU
+GOODS SOLD ARE NOT RETURNABLE, THANK YOU

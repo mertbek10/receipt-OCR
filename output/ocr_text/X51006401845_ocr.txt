@@ -1,27 +1,20 @@
-io ei aes lee ee
-
-‘Buy Sell Trade Sdn. Blut.
-G04412-X
+Vv -
+‘Buy Sel) Trade Sdn. Bit.
+604412-X
 Tax Invoice
-_ GST Ib; 001969250560
-2 & 2A, Jalan Kasuarina 1/KS 7,
-
-7 Randa Botanik,
-41200 Klang, SELANGOR
-
-y
-
-CS No.: 0007/0112423 04/02/2017 07:14PM
-Sold To
-
-Amount CRM)
-
-26,90
-
+GST ID: 001969250560
+2 & 2k, Jalan Kasuarina 1/KS 7,
+SY Bandar Botanik,
+‘ 41200 Klang, SELANGOR
+€S NO.: 0007/0112423 04/02/2017 07:14PM
+Sold To: CASH
+fescription Amount CRM)
+TNLI49/VO7OF/COOKING POT
+SR pT 26.90 26.90
 Total Qty: 1
-Total Sa
-
-Youcher
-
-Cheque
-
+Total Sales Inclusive GSt 26.90
+Cash 27.00
+Voucher 0.00
+Cheque 0.00
+Change ©.10
+CST Simmary Amount.cRM) TaxcRM)

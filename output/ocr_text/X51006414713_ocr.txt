@@ -1,87 +1,48 @@
-s
-a
-
-YHM Aeon Tebrau City
+YHH Aeon Tebrau City |
 S117, Second Floor,
-Aeon Tebrau City,
-
+Aeon Tebrau City, | 4
 1, Jalan Desa Tebrau,
 Taman Desa Teprau,
-81100 Johor Bahru, Johor.
-002105877328
-
+81100 Johor Bahru, Johor. | } |
+me 002105877328 |
 * TAX INVOICE *
-
-Order No. 1000070 17/04/2018 07:13 PH
-|
-
-Receipt No. :003-1227834 Pax:
+Order No. 1000070 17/04/2018 07:13 PM
+Receipt No. :003-1227834 Pax: 1
 Cashier ‘Cashier
-
-Eat In
-
-Item Qty U.Price Amount Tax
-
-ie me ee ee es ee ee cee nee ete an ra nee nt me ms nak en a tome etn ne mn my me arg men mn SO SO
-
-FG-A90019 2 1.50 3.00 SR
-Green Tea
-
-FG-H00027 1 3,80 3.80 SR
+Eat In -
+Item Qty U.Price Amount Tax }
+| “c-A00019 2 1.50 3.00 SR :
+Green Tea ,
+FG-H00027 1 3.80 3.80 SR
 Chikuwa Tempura
-
-FG-H00039 1 3,80 3.80 SR
-Karaage
-
-FG-Y00133 1 16,80 16.80 SR
+| FG-H00030 1 3,80 3.80 SR
+| Karaage |
+FG-Y00133 1 16.80 16.80 SR
 Otm Spicy Yakiniku Bowl R
-
-FG-¥00276 1 16.80 16.80 SR
-Otm Spicy Teri Chicken Bowl R
-
-FG-¥00229 1 18.80 18.80 SR
+FG-¥00226 1 16.80 16.80 SR
+Otm Spicy Teri Chicken Bowl R .
+FG-Y00229 1 18.80 18.80 SR
 Otm Tori Katsu Set
-
-FG-YO0268 0.00 0.00 SR
-
-Katsu Sauce
-
-Fo-yo0264 si 0.00 0.00 SR
-
+Fa~-Y00268 1 0.00 0.00 SR |
+Katsu Sauce | | .
+FG-Y00264 1 0.00 0.00 SR
 Miso Soup
-FG-¥00229 ]
+FG-¥00229 ] 18.80 18.80 SR
 Otm Tori Katsu Set
-
-FG-Y00767 1 0.00 0.00 SR
-
-Taru Taru Sauce
-
-FG-Y00265 1 0,00 0.00 oR
-
-Wakame Soup
-
-ee me re ene ee ee nee ee nee eee ten nae eee ee Aner eer em een mms eg mae me mae
-
-18.80 18.80 SR
-
-SubTotal 81.80
-lotal 81.80
-
-TOTAL:MYR ~—-81..80
-
-Total Excluded Tax 77,18
-, 4,62
-
-Payment Details
-
-Cash 85.00
-
+FG-Y0026/ 1 0.00 0.00 SR .
+Taru Taru sauce |
+FG-Y00765 1 0,00 0.00 SR ;
+Wakame Soup ,
+SubTotal . 81,80 | °
+Total ) 81.80
+TOTAL:MYR 81.80
+| Total Excluded Tax 77.18
+| . 4,62
+: Payment Details
+_ Cash 85.00 .
 Cash Change 3.20
-
 Tax Summary
-Tax Code % Amount (MYR) Tax(HYR)
-
-eee cm pare me ee ed Ot et aed cd fh ts mee ea ce se Ne et cen Wem Ga nm at mn my oem ar Seem Sy em a ly NPN
-
-*kEK Thank You ****
+Tax Code % Amount(MYR) Tax(MYR) | )
+SR 6 77.18 4,62
+4K Thank You **** |
 Please Come Again.

@@ -1,38 +1,40 @@
 TONYMOLY VIVA CITY
 (TONYMOLY SHOP (95874))
 UNIT L1-044B, VIVACITY MEGAMALL,
-JALAN WAN ALHI,
+JALAN WAN ALWI,
 93350 KUCHING, SARAWAK
-451 [0 : 000349356032
-
+457 [0 : 000349356032
 Tax Invoice
+
 TERMINAL : 880
+
 SALES NO. : 8807946
+
 ALES DATE : 29/03/2018 20:19:07
 CASHIER : Then Fiona
 
-CLIENT : CASH
-POINT EARNED
+CLTENT + CASH
 
-WUNDER CHEESE FIRMING CREAM EAC [SR]
-1t.02001600 1* 69.90 69.90
-Disc 30, 00% -20.97
+POINT EARNED : 0
+
+WONDER CHEESE FIRMING CREAM EAC [SR]
++t.J2001600 1+ 69.90 69.90
+Disc 30.00% -20.97
 DISCOUNT 30% EAC [ZR]
-0.00
-
-jotal Sales Incl. GST
-Rounding Adjustment
-Total After Rounding
-
-Card No 46 XXxxxxxx 1819
+N1S530 1 + 0,00 0.00
+}tem Count 2
+jotal Sales Incl. GST 48. 93
+Rounding Adjustment 0.02
+total After Rounding 48, 95
+VISA 48,95
+Card No 46 XxXxxxxxx 1819
 App. Code a0000000031010
-4G xxxxxxxX 1819
-
-iu7 summary Amount (RN) ~ Tax¢RM)
-
-intal promotional saving
-i; wited on: 29-03-2018 20:19:33
+AGEXKRNXKXK) 1 81925 econ ooo anaes nm
+1 summary Amount (RM) Tax(RM)
+sk = 6% 46.16 2.77
+ZR = 0% 0. 00 0. 00
+intal promotional saving 20, 97
+i; inted on: 29-03-2018 20:19:33
 
 Thank You
 Please Come Again
-

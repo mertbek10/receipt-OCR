@@ -1,33 +1,29 @@
+ISS FRWON
+pert
++4 :
 SYARIKAT PERNIAGAAN GIN KEE
 (81109-A)
-NO 290, JALAN AIR PANAS,
+NO 290, JALAN AIR PANAS.
 SETAPAK,
-63200, KUALA LUMPUR.
+53200, KUALA LUMPUR.
 TEL : 03-40210276
 GST ID : 000750673920
 SIMPLIFIED TAX INVOICE
-
-‘CASH wee ease Tac atic
-| DocNo _. CS00011956 Date 02/12/2017
-Cashier : USER Time: 17 21:00
+CASH Poe rs
+Doe No 00011986 Date 02/12/2017
+Cashier USER Time: 17 21:00
 Salesperson Ref. :
-4587.—t—s*” 4 TAZ 7.42 SR
-| 7 Total Oty” i 742
-| Total Sales (Excluding GST) . 7.00
-| Discount : 0.00
-i TotalGST . 0.42
-| Rounding . 0.00
-| Total Sales (Inclusive of est): (7.42)
-| CASH : TA2
-i Change : 0.00
-
-| GST SUMMARY ne
-| code 0’ ~SC Amt) «= Tax (RM)
-oes 700 (O42
-
-\ | Tote!: 7.00 0.42
-
-—————
-
-ee DNARIE THANK YOU
-
+| 1687 4 742 742 SR
+| SPRAY GIN 2s nee
+| Totaly ie
+j Total Sales (Excluding GST) 7.00
+Discount : 0.00
+] Rounding 0.00
+,| Total Sales (Inclusive of GST) : C 7.42)
+| CASH : 7.42
+} Change : 0.00
+| ast SUMMARY *
+(|) \rexcode %  AmtiRM) Tax tBD
+| | SR 6 700 Oae
+Tot?!: 7.00 0.42
+ee parte THANK YOU

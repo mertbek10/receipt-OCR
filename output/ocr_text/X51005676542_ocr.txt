@@ -1,5 +1,5 @@
-| ZI8O1dIt |
-
+aK
+Z18O1OIF 2s
 SYARIKAT PERNIAGAAN GIN KEE
 (81109-A)
 NO 290, JALAN AIR PANAS,
@@ -8,28 +8,21 @@ SETAPAK,
 TEL : 03-40210276
 GST ID : 000750673920
 SIMPLIFIED TAX INVOICE
-
-‘CASH — oo
-Doc No. - €$00012465 Date: 29/12/2017
-Cashier USER Time: 15:32:00
-Salesperson Ref. :
-Item Oty S/Price_ Amount Tax_
-3015 1 10.60 1060 SR
-G.LWIRE RM10
-aa TotalQty) 7 10.60
-Total Sales (Excluding GST) : 10.00
-Discount : 0.00
-TotalGST ; 0.60
-Rounding ; 0.00
-Total Sales (inclusive of GST) : 10.60
+Doc No CS00012465 Date: 29/12/2017
+Cashier USER Time: 16.3200 |
+Salesperson Ref. ; ,
+— 3015 1 10.60 1060 SR
+— GIWIRE RM10 |
+~~ TotalQty 7 £41060 ~~
+Total Sales (Excluding GST) ; 10.00
+Discount : 0.00 |
+TotalGST ; 0.60 |
+Rounding 0.00
+Total Sales (inclusive of GST) : 10.60 |
 CASH : 10.60
-Change : 0.00
-GSTSUMMARY |.
-TaxCode % Amt(RM) Tax(RM)
+Change : 0.00 |
+GSTSUMMARY
+Tax Code % Amt(RM) Tax(RM)
 SR 6 10.00 0.60
 Total : 10.00 0.60 L
-
 GOODS SOLD ARE NOT RETURNABLE, THANK YOU
-
-S Ve
-

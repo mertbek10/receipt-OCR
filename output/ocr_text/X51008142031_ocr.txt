@@ -1,42 +1,34 @@
-ONE ONE 'Hkit) SEAFOOD RESTAURANT SDN BHD
-\ 1120908-M)
-NO.1, TAMAN SRI UENGKIL, JALAN AIR HITAM
+|
+CNE ONE !Hkit SEAFOOD RESTAURANT SDN BHD
+( 1120908-M)
+NO.1, fAMAN SRI UENGKIL, JALAN AIR HITAM
 43800 DENGKIL, SELANGOR.
-(GST Reg. No : 000670224384)
+(GST Reg. No :; 000670224384)
 Tax Invoice
 Table 38
 8111#:V001-538701 Order#: 138803
-fate +; 22-02-2018 19:54:52
-
+Cate  ; 22-02-2018 19:54:52
 Cashier: 113 CASHIER Pax(s): 0
-Qty bescription Total TAX
+Qty Description Total TAX
 1 D 32.00 SR
 Chicken Item
-
-] D 4,00 SR
+1 D 4.00 SR
 White Rice
-
-] D 18.00 SR
-Vege Item (M)
-
-] D 8.00 SR
+1 D 18,00 SR
+Vege Item (M) :
+1 D 8.00 SR
 Rice w Seafood /Meat Item Single
-
-] D 5,00 SR
+1 D 5.00 SR
 Beverage
 Total (Excluding GST): 67.00
 GST Payable: 4.02
-Total (inclusive of GST): 71.02
+Total (Inclusive of GST): 71.02
 Rounding Adj: -0.02
 TOTAL: 71.00
-Cloeud! 22-05-2018 21:16:12
-Server: hg CASHIER
-CASH : rae 00
-QST Summary Anount (RM) Tax(RM)
-SR (@ ik) 67.00 4.02
-
-#ex* Thank You #*++
+Closed: 1 22-05-2018 21:16:12
+Server: 113 CASHIER
+CASH : 71.00
+GST Summary Amount(RM) — Tax(RM)
+SR (@ i%) 67.00 4.02
+*#«* Thank You **+#*
 Please Come Again
-
-~~ —s
-

@@ -1,33 +1,23 @@
-IMAGE FPRINTEC (M) SDN BHD
+IMAGE PRINTEC (M) SON BHD
 Reg No: 416123-U
 GST: 001241862144
-No. 12A-G, Jalan Wangsa Delima 11,
+No. 12A-G, Jalan Wangsa Delima 11.
 D'wangsa Wangsa Maju,
-53300 Kuala Lumpur.
-T: +(603) 4141 9822 F:+(603) 41419722
-
+§3300 Kuala Lumpur.
+T. +(603) 4141 9822 F.+(603) 41419722
 TAX INVOICE
-
-CB#: 61967 23/02/2918 7:44:16
-
+CB#: 61967 23/02/2018 7:44:16
 Salesperson :
-
-Qty _ Desc Boks a _ Price Total
-2 COLOR COPY A4 7.00 2.00 SR
+Qty Desc ____Price Total
+2 COLOR COPY A4 1.00 2.00 SR
 2 PHOTOCOPY A4 0.10 0.20 SR
-2 2 LAMINATE AA 2. 50 5.00 SR
-
-SubTotal:
-
-GST 6%
-
-Rounding Adj :
-
-NET TOTAL:
-
-CASH
-
-Change:
-
+2 LAMINATE A4 250 §.00 SR
+eb dtyre: Se ee
+SubTotal: Cc aa?
+GST 6% 43
+Rounding Adj : 0.02
+NET TOTAL: 7.65
+CASH 10.00
+Change: 2.35
 Thank you.
 Please come again.

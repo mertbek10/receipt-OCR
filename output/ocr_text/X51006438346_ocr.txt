@@ -1,40 +1,32 @@
 HIGH FIVE ENTERPRISE
-
 Company No : 1351865-%
-
 Jalan Bidara, Taman Bidara, Selayang
-68100, Batu Caves, Selangor
+58109, Batu Caves, Selangor
 
-Site ; 2059
+Site : 2059
 
-Tel ephone :
-001215471616
-“number: 01000683964
+Te'eprone : 03-61363779
 
-GST No
-Invoice
+GST No : C01215471616
 
-03-61363779
+Invoice number: 01000883954
 
-43.40 litre Pump # 11
+43.40 litre Pump # ti
+FuelSave 95 RM 95.48 ©
+2.200 RM / litre
 
-Fuel Save 95 RM 95.48 C
-200 RN / litre
+Total iad 95.48
+Cash RM 100.00
+Rounding RM 9.02-
+Change RM 4.56
+Relief GST CG RM 0.00
+Total Gross C RM 95.48
+cashier:
 
-RM 95.48
-Cash RM 100,00
-Rounding RM 0.02-
-Change RM 4.50
-Relief GST Cc RM 0.00
-otal Gross C0 RM 95.48
-Cashier:
 AAZMANS
 
-Time Num POS CNo Shift
-
-oava4si8 21:57 16074 01 3334 699
-
-Diesel & Petrol RONSS given relief
-under Section 56(3)(b) GST Act 2014
-
+Date Time Num POS CNo Shift
+05/04/18 21:57 16074 G1 3334 699
+Diesel & Petrol RONSD given reltef
+under Section 56¢3)(b) GST Act 2014
 Thank You and Please Come Again
