@@ -1,13 +1,17 @@
-import pytesseract
-import cv2
-import os
+# images leri ocr ile okuyup texte kaydettiğmiz dosya 
+# görüntü daha iyi okunabilsin diye preprocessing uyguluyoruz 
 
-''' ocr sonrası metin ayıklarken none değerler vardı 
+import pytesseract#ocr için tesseract
+import cv2 #image processing için 
+import os #klasörler içinde gezinip yol oluşturma
+
+''' 
+ocr sonrası metin ayıklarken none değerler vardı 
 bunları azaltmak için preprocessing yapıyoruz 
 görüntünün okunaklığını arttırmak için görüntü işleme yapıcaz
  '''
-
-def preprocess_image(img_path, mode="simple", save_debug=False, debug_dir="output/processed_image"):
+#görüntü isleme
+def preprocess_image(img_path, mode="simple", save_debug=False, debug_dir="OCR output/processed_image"):
     img = cv2.imread(img_path)
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
@@ -17,17 +21,21 @@ def preprocess_image(img_path, mode="simple", save_debug=False, debug_dir="outpu
     else:
         processed = gray
 
-    # sadece debug istenirse kaydet
+    '''
+    debug istenirse kaydet 
+    imagenin işlendikten sonraki halini görmek için 1 tane imagei kaydediyoruz 
+    '''
     if save_debug:
         os.makedirs(debug_dir, exist_ok=True)
         base = os.path.basename(img_path)
         debug_path = os.path.join(debug_dir, base.replace(".png", "_processed_image.png"))
         cv2.imwrite(debug_path, processed)
-        print(f"precessed image processed_image klasörüne kaydedildi: {debug_path}")
+        print(f"precessed image=CR output processed_image klasörüne kaydedildi: {debug_path}")
 
     return processed
 
-def process_all_images(input_dir="images", output_dir="output/ocr_text"):
+# görüntüleri al ve tesseract ile okuduktan sonra text dosylarına yaz 
+def process_all_images(input_dir="separated dataset/images", output_dir="OCR output/ocr_text"):
     os.makedirs(output_dir, exist_ok=True)
 
     for idx, file in enumerate(os.listdir(input_dir)):
@@ -38,7 +46,7 @@ def process_all_images(input_dir="images", output_dir="output/ocr_text"):
             # sadece ilk görsel için debug kaydı
             processed_img = preprocess_image(img_path, mode="simple", save_debug=(idx == 0))
 
-            # OCR yap
+            # OCR 
             config = "--psm 6"
             text = pytesseract.image_to_string(processed_img, lang="eng", config=config)
 

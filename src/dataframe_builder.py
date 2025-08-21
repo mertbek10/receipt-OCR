@@ -3,19 +3,15 @@ OCR ile okuyup çıktıları txt dosyası olarak kaydettiğimiz yerden verileri 
 bu ayrıştırmayı kendi istediğimiz kolonlara göre yapıcaz
 '''
 import os #klasörler içinde dosya aramak yol birliştirmek için
-import re
+import re #metinleri ayıklamak için kullanılan kütüphane regular experssions
 import pandas as pd #dataframe oluşturmak için 
 
 def parse_receipt_text(text):
     #OCR çıktısından istediğimiz kolonları ayıkla
     data = {
         "customer_name": None,
-        #"document_no": None,
-        #"store_name": None,
-       # "store_address": None,
         "date": None,
         "time": None,
-       # "items": None,
         "total": None,
         "payment_method": None,
     }
@@ -27,28 +23,8 @@ def parse_receipt_text(text):
     if lines:
      data["customer_name"] = lines[0]
 
-# # Document no
-#     match = re.search(r"(?:Document|Doc|Bill|Invoice|Receipt)\s*(?:No\.?|#)?:?\s*([A-Z0-9\-]+)", text, re.IGNORECASE) 
-#     if match:
-#      data["document_no"] = match.group(1)
-
-
-
-    # Store name → 2. satır
-    # if len(lines) > 1:
-    #     data["store_name"] = lines[1]s
-
-    # Store address → 2–6 arası satırlarda adres yakala
-    # addr = []
-    # for line in lines[2:8]:
-    #     if re.search(r"\d{5}", line) or "JALAN" in line.upper() or "ROAD" in line.upper():
-    #         addr.append(line)
-    # if addr:
-    #     data["store_address"] = " ".join(addr)
-
-
-#regex çıkarımı 
-      # Date (22/12/2018 veya 22-12-2018 formatı)
+    # regex çıkarımı 
+    # Date (22/12/2018 veya 22-12-2018 formatı)
     match = re.search(r"(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})", text)
     if match:
         data["date"] = match.group(1)
@@ -69,19 +45,12 @@ def parse_receipt_text(text):
     elif "credit" in text.lower() or "visa" in text.lower() or "master" in text.lower():
         data["payment_method"] = "Credit"
 
-       # Items → fiyat geçen satırları al (ama Total satırlarını değil)
-    # items = []
-    # for line in lines:
-    #     if re.search(r"\d+\.\d{2}", line) and not re.search(r"(Total|Grand Total|Amount Due)", line, re.IGNORECASE):
-    #         items.append(line)
-    # if items:
-    #     data["items"] = "; ".join(items)
-
+     
     return data
 
 
 
-def extract_all_receipts(input_dir="output/ocr_text"):
+def extract_all_receipts(input_dir="OCR output/ocr_text"):
     rows = []
     files = [f for f in os.listdir(input_dir) if f.endswith(".txt")]
 
@@ -95,7 +64,7 @@ def extract_all_receipts(input_dir="output/ocr_text"):
 
     '''
     tüm verileri terminale yazması hem uzun süreceği hem de karmaşık gözükeceği için 
-    Sadece ilk 5’i terminalde göster
+    Sadece ilk 5 satırı terminalde göster
     '''
     print("İlk 5 fişin çıktısı:")
     print(df.head())
