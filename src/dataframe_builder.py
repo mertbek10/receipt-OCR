@@ -61,6 +61,14 @@ def extract_all_receipts(input_dir="OCR output/ocr_text"):
         rows.append(parsed)
 
     df = pd.DataFrame(rows)# DATAFRAME KAYDEDİLDİ
+    
+    return df
+
+if __name__ == "__main__":
+    df = extract_all_receipts()
+
+     # Toplam kaç fiş işlendi mesajı
+    print(f"\nTüm dosyalar işlendi, toplam {len(df)} fiş işlendi.")
 
     '''
     tüm verileri terminale yazması hem uzun süreceği hem de karmaşık gözükeceği için 
@@ -68,16 +76,7 @@ def extract_all_receipts(input_dir="OCR output/ocr_text"):
     '''
     print("İlk 5 fişin çıktısı:")
     print(df.head())
-
-    # Toplam kaç fiş işlendi mesajı
-    print(f"\nTüm dosyalar işlendi, toplam {len(df)} fiş işlendi.")
-     
      #eksik değer kontrolu
     print(df.isnull().sum())
     
 
-    return df
-
-
-if __name__ == "__main__":
-    extract_all_receipts()
