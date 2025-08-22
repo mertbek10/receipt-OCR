@@ -1,0 +1,51 @@
+Cash Sale
+KT WONG TRADING (001904043-H)
+22, Jalar Perindustrian Hijau 5 ,
+Taman Perindustrian Hijau,
+Phone:
++603-6093 9078
+G57 Registration No.
+000613294060
+Lvament No.
+KTWO31475
+Date
+09/06/2018 12.17.20 PM
+DESC
+PRICE
+Disc
+AMOUNT
+TAX
+QTY
+CODE
+BERAS ASAS LOKG* **
+15 'BAG
+24.90 X
+373.50
+SR
+SUN SOS TIRAM 6KG
+4BOTOL
+15.95
+63,.80
+SR
+COKE 24 X 325ML
+ZPETI
+26.00 
+52.00
+SR
+Sub Tctal Inclusive GST
+489.30
+Rounding Adj.
+0.00
+Rounded Total (RM):
+489.30
+G3T Sumnmaıy
+Amount
+Tax
+SR
+O%
+489.30
+0.00
+Pexment_Detail
+03/06/2018
+Cash
+489.30

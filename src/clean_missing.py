@@ -1,27 +1,29 @@
 # Dataframemimizdeki eksik değrleri temizleme-doldurma işlemini yapıcaz 
 
-import numpy as np
-import random
-from dataframe_builder import extract_all_receipts #oluşturduğumuz dataframe erişmek için
+import numpy as np #dizilerle işlemler yapabilmek için kullanıyoruz verileri eşit dağıtma vesaire
+import random # rastgele saat üretebilmek için 
+from src.dataframe_builder import extract_all_receipts #oluşturduğumuz dataframe erişmek için
 
 #dataframe_builder.py dosyasından fonksiyona erişim saylayarak dataframe ulaşıyoruz
 df=extract_all_receipts()
 
 
 #eksik olan isimleri örnek aynı isimle doldur(maverik)
-df["customer_name"] = df["customer_name"].fillna("maverick")
+df["customer_name"] = df["customer_name"].fillna("maverick") 
 
 '''
 time için eksik değerleri 3 aralıkta eşit olacak şekilde doldurulucak
 ilerde son dataframe şeklini excel dosyasına bu 3 aralıktaki harcamalar olacak şekilde kategorize edilecek
 '''
 time_ranges ={ 
+    "00-08": (0, 8),
     "08-12": (8, 12),
     "12-20": (12, 20),
     "20-24": (20, 24),
 }
 
 
+#belirlenen zaman aralığına rasgele saat üretir 
 def random_time_in_range(start_hour, end_hour):
     hour = random.randint(start_hour, end_hour-1)
     minute = random.randint(0, 59)
@@ -30,6 +32,7 @@ def random_time_in_range(start_hour, end_hour):
 missing_time= df["time"].isna().sum()
 if missing_time > 0:
     slots = list(time_ranges.keys())
+    #np.resize burada eşit dağılım dengesini sağlıyor
     fill_slots= np.resize(slots, missing_time)
     missing_idx =df[df["time"].isna()].index
 
@@ -43,6 +46,7 @@ if missing_time > 0:
 missing_pay= df["payment_method"].isna().sum()
 if missing_pay > 0:
     methods= ["card", "cash"]
+    #np.resize burada yine eşit dağılım dengesini sağlıyor
     fill_methods = np.resize(methods, missing_pay)
     missing_idx = df[df["payment_method"].isna()].index
     for idx, method in zip(missing_idx, fill_methods):
@@ -63,8 +67,14 @@ df = df.reset_index(drop=True)
 if __name__ == "__main__":
     print("Eksik değerler dolduruldu / temizlendi")
     print(df.head())
+    print(df.info())
     print(df.isnull().sum())
     
+    #   # DataFrame'i CSV olarak kaydet
+    # output_csv = "datafraame.csv"
+    # df.to_csv(output_csv, index=False, encoding="utf-8-sig")
+
+    # print(f"\nDataFrame CSV olarak kaydedildi: {output_csv}")
 
 
 

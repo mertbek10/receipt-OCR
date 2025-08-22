@@ -1,0 +1,81 @@
+SUSHI MENTAI
+PANDAN INDAH
+KMF FOoDICIOUS SDN BHD ( 1132106-H)
+No
+9-G, JALAN PERUBATAN 2
+PANDAN INDAH
+55100 KUALA LUMPUR .
+Tel
++603 2856 0385
+GST Reg .
+No
+000897208320
+Tax
+Invoice
+Table T13
+Order#: 275705
+Bi7l#; Vo15- 673381
+Pax(s): 0
+Date
+09-04-2018 19:22:25
+Cashier ; Cashier
+Descr ipt ion
+Oty
+U.price
+Tota] TAX
+Tor i   Teriyaki Don
+1 X
+12.80
+12,80
+SR
+Tako Bal1
+1 x
+0.00
+0,00
+Sushi 1,80
+4 X
+1,80
+7.20
+SR
+Sushi '2.80
+2 x
+2.80
+5,60
+SR
+Green Tea
+1 x
+1,00
+1,00
+SR
+Tota /
+(ExcIud -
+GST ) ;
+26 , 60
+Serv
+Charge (10X) ;
+2,66
+GST Payable;
+1,76
+Tota] (Inclusive of GST) :
+31,02
+Rounding  Adj
+~0,02
+TOTAL :
+31.00
+Closed:
+0
+09-04-2018
+20.01;23
+Server : Cashier
+CASH
+31,00
+GST   Summary
+Amount (RM)
+Tax (RM)
+SR
+(@ 6x)
+29,26
+1,76
+Thank   You!
+Please Come Again!
+ling

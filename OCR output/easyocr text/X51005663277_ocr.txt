@@ -1,0 +1,56 @@
+2 ! 8 12 ol 2
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290, JALAN AIR PANAS,
+SETAPAK,
+53200, KUALA LUMPUR:
+TEL : 03-40210276
+GST ID : 000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No
+CSOOO11926
+Date:   02/12/2017
+USER
+Time   08.4400
+Cashier
+Ref.
+Salesperson
+Ilem
+0
+SlPrice
+Amount
+Tax
+29.68
+29.68
+SR
+3122
+(W33) 105MMIa' CUTTING DISC
+Total @ty
+29.68
+Tolal Sales (Excluıding GST)
+28.00
+Discount
+0 00
+Total GST
+1.68
+Rounding
+0.00
+Total Salos (Inclusive of GST)
+29.68
+CASH
+29.68
+Change
+0.00
+ĞSTSUMMARY
+Iax Code
+%
+Amt (RM)
+Iax(RM)
+SR
+6
+28.00
+1.68
+Total
+28.00
+1.68

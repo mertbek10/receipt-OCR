@@ -11,9 +11,10 @@ bunları azaltmak için preprocessing yapıyoruz
 görüntünün okunaklığını arttırmak için görüntü işleme yapıcaz
  '''
 #görüntü isleme
-def preprocess_image(img_path, mode="simple", save_debug=False, debug_dir="OCR output/processed_image"):
-    img = cv2.imread(img_path)
-    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+# simple mode görüntü işleme tekniğini kullandık
+def preprocess_image(img_path, mode="simple", save_debug=False, debug_dir="OCR output/tesseract processed image"):
+    img = cv2.imread(img_path) #görseli okuma
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) #görseli griye çevir
 
     
     if mode == "simple":
@@ -28,14 +29,14 @@ def preprocess_image(img_path, mode="simple", save_debug=False, debug_dir="OCR o
     if save_debug:
         os.makedirs(debug_dir, exist_ok=True)
         base = os.path.basename(img_path)
-        debug_path = os.path.join(debug_dir, base.replace(".png", "_processed_image.png"))
+        debug_path = os.path.join(debug_dir, base.replace(".png", "_processed.png"))
         cv2.imwrite(debug_path, processed)
-        print(f"precessed image=CR output processed_image klasörüne kaydedildi: {debug_path}")
+        print(f"precessed image=CR output tesseract_processed klasörüne kaydedildi: {debug_path}")
 
     return processed
 
 # görüntüleri al ve tesseract ile okuduktan sonra text dosylarına yaz 
-def process_all_images(input_dir="separated dataset/images", output_dir="OCR output/ocr_text"):
+def process_all_images(input_dir="separated dataset/images", output_dir="OCR output/tesseractocr text"):
     os.makedirs(output_dir, exist_ok=True)
 
     for idx, file in enumerate(os.listdir(input_dir)):

@@ -1,0 +1,62 @@
+KESTAURANT
+JIAWE |
+JIAWE |
+HOUSE
+002693074-K
+13,
+JLN taSIK UTAMA
+8
+MEDAN NIAGA DAMA |
+SG
+BES |
+57000 KL
+INVOI CE
+Invoicc
+13834
+Cashier : adm i n
+POS No:1
+Date
+11/5/2018}
+13:14:32
+Tab le
+T
+AWAY
+1
+TEM
+OTY
+U/P (RM
+DISG
+Ani
+(RM
+Buttcr
+Cream
+Chicken Rice
+3
+9. 00
+0. 00
+2
+Sub   Tota/
+Before Discoun;
+RM 2700
+Service Charge
+RM
+0 00
+Tota /
+Sales
+RM 27 00
+Roundi ng
+Ad justment
+RM
+0. 00
+TOTAL
+RM
+27
+00
+CASH
+RM
+50
+00
+CHANGE
+RM
+23
+00

@@ -1,0 +1,67 @@
+{51/3
+IDEAL MENU GROUP SDN BHD
+(1143655-H)
+31,31A, JALAN HANG TUAH 9
+TAMAN SKUDAI BARU,
+81300 SKUDAI,
+JOHOR
+GST ID
+001707421696
+TAX INVOICE
+Receipt #:
+CS10031697
+Table:
+10
+Staff:
+Date:
+10/06/2018
+Cashier:
+SM CASHIER
+Time:
+16.23.00
+Description
+Prlce
+Amt
+Tax
+AT LO BAKRIcE
+SET
+12 00
+12.00
+SR
+BUBBLE GREEN TEA
+0.00
+0.00
+SR
+Total:
+1200
+Total Sales (Excluding GST
+12.00
+Discourı
+0.00
+Service Charge
+0.00
+Total GST
+0.00
+Rounding
+0.00
+Total Sales (Inclusive of GST)
+12.00
+CASH
+20.00
+CHANGE
+8.00
+@IWARY
+Iax Code
+%
+Amt (RM)
+Iax(RM)
+SRO
+12,00
+0.00
+Total
+12.00
+0.00
+#Indicafed {his 7ax code belong l0 service
+charges.
+THANK YOU. PLEASE COME AGAIN II
+@ty

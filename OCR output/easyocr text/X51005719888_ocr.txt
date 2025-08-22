@@ -1,0 +1,51 @@
+POTTERS
+GARDEN
+SDN
+BHD
+(1153774-D)
+Batu 11
+Sg Buloh
+47000 Selangor .
+Tel: 016-667 0982
+016-333 3812
+GST
+No: 000392024064
+TaX INVOICE
+TABLE
+01
+POS ID
+G
+Inv NO; G/00002268
+CASHIER: Administrator
+INv DT; 04/01/2018 12.29;18 PM
+RM
+ITEM
+AMouNt
+AAOOOO7 PLASTIC PLATE
+101.00 SR
+AAooo22 ChinA PoT
+2 @7,90
+15.80 SR
+Aa0oo16 PLANT
+16,00 SR
+AAOOo16 PLANT
+7,00 SR
+5
+SUB   TOTAL
+139,80
+NET ToTAL
+139.80
+Cash
+439.80
+CHANGE
+300
+00
+Tax Sunmary
+Amount
+Tax
+SR Inclusive GST 6*
+37,54
+2.26
+##*  Thank you Please Come Again *+*
+Item Sold are Not Refundable & ExchangeabIe
+Reg

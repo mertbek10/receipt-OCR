@@ -1,0 +1,60 @@
+RESTORAN   WAN ShenG
+002043319-W
+No , 2 ,
+JaIan   Temenggung   19/9
+Seksyen 9
+Bandar Mahkota Cheras
+43200 Cheras
+SeJangor
+GST REG NO; 001335787520
+Tax
+Invoice
+INv No
+'
+1037698
+Cashier: Nicole
+Date
+10-03-2018   16.01.37
+Descr ipt ion
+Oty
+U.price
+Tota] TAX
+Teh (B)
+2 x
+2,20
+4 ,40
+SR
+Cham (B)
+1 x
+2,20
+2,20
+SR
+Take Away
+3 X
+0,20
+0,60
+SR
+Tota] QTY:
+6
+Tota]
+(ExcJuding GST ) ;
+6,81
+GST
+Je (6X) ;
+0.39
+Tota]
+(Inclusive of GST ) ;
+7,20
+TOTAL :
+7
+20
+CASH
+7,20
+GST   Summary
+Amount (RM)
+Tax (RM)
+SR
+(@ 6x)
+6,81
+0,39
+payab

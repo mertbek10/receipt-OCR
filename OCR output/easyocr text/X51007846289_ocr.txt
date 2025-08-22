@@ -1,0 +1,68 @@
+AdWol
+MooNLIGHT CAKE HOUSE SDN BHD 862725-U
+(GST Reg Mo: 001559298048)
+No.1 , Jalan Permas 10/5, Bandar Baru Permas Jaya
+81750 Johor Bahru, Johor -
+Te1
+No .
+07-387 3322
+Www =
+moonTightcake , com
+Table
+Counter
+Invoice No: SP-nul1-18/06/07-1017888
+Date
+07/06/2018 18;17,39
+Payment Type =
+Cash
+Member   Number
+3000000100068587
+TAKE
+AWAY
+T-Dark Seed Grain Bread *#
+RMA , 15 ST
+Discount
+RM-0,20
+T-Green Tea Mochi *#
+RM3 ,30 ST
+Discount
+RM-0. 16
+T-Honey WlaInut *
+1
+RM3 . 70 sT
+Discount
+RM-0.18
+T-Saha Bread +
+RM4 ,60 ST
+Discount
+RM-0.,23
+Total (Inc) GST_
+0% 
+RM14 ,98
+Rounding
+RMO . 02
+Grand
+TotaIRM15 .00
+Total Paid
+RM2O ,00
+Change
+RMS ,00
+Discount Summary
+Discount
+RMO . 77
+GST  Summary
+GST   Summary
+Item
+Anount (RM)
+GST (RM)
+ST
+=
+08
+14,,98
+0.00
+MS
+=
+08
+0.,00
+0.00
+07/06/2018 18;17,39

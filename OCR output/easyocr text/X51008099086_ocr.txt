@@ -1,0 +1,53 @@
+RESTORAN   Wan SHeNG
+002043319-W
+No.2 , JaJan   Temerıggung   19/9
+Seksyen 9, Bandar   Mahkota Cheras ,
+43200 Cheras
+Selangor
+GST ReG No: 001335787520
+Tax
+Invoice
+Inv No
+1216991
+Cashier ; Nicole
+Date
+29-06-2018   16:13,05
+Descr ipt ıon
+Oty
+U,price
+Tota) TAX
+Kcpi
+0 (B)
+1 x
+2,00
+2,00 ZRL
+Chan (B)
+1 x
+2.10
+2.10 ZRL
+Hescafe (B )
+1 x
+2,50
+2,50 ZRL
+Take Away
+3 X
+0 ,20
+0,60 ZRL
+Tota] QTY;
+6
+Tota]  (Excluding GST)
+2
+7.20
+Tota)   ( Inclusive of GST) :
+7,20
+TOTAL :
+7 .20
+CASH
+7.20
+GST  Summary
+Amouınt (RM
+Tax(RM)
+ZRL
+(@ ox)
+7,20
+0.,00

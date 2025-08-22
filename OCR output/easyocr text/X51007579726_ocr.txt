@@ -1,0 +1,70 @@
+MRT
+Uuralad
+rapidKL
+IAXINVOICE
+RAPID RAIL SL'
+BHD
+No
+JALAN
+WA46
+OFF JALAN LAPANGAN TERBANG SUBANG
+PETALING JAYA SELANGOR 47301
+GST
+No
+001345261568
+OTP Sale receipt
+TSC
+22MGOUSUBS---11002
+Agent ID
+114500
+SHIFT ID
+38599
+Transaction
+89
+Date
+18/06/2018 0e.18.00
+Description
+Quarity
+Amount
+4ax
+(RM)
+code
+Media nb
+3097352783
+Balance betore
+RM
+1.90
+Balance after
+RM 31.40
+TNG Reload RM 30
+RM 29 50
+ES
+Reload Fee
+RM 0 50
+SR
+Total
+RM 30.00
+Rounding
+RM 0 00
+Inchagns GST
+RM 0.0C
+GST Summary
+Amnount
+GST
+SR=GST G.00%
+RM u. 50
+RM 0 00
+ES-GST 0.00%
+RM 29 50
+RM 0.00
+Payment rnode
+Arunt
+Cash
+RM 30.00
+e4
+Please retain recelpt fcr reference
+Jr
+Date printed 18/06/2018 08.18.01
+uy
+FJV
+Reg

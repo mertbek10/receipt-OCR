@@ -1,0 +1,60 @@
+RESTORAN   WAN SHENG
+002043319-W
+No.2, JaJan Temenggung 19/9
+Seksyen 9, Bandar Mahkota Cheras ,
+43200 Cheras
+SeJangor
+GST REG NO; 001335787520
+Tax
+Invoice
+INv No
+6
+1057981
+Cashier; Thandar
+Date
+23-03-201813;28,55
+Descr ipt ion
+Oty
+U.price
+Tota]  TAX
+Teh (B)
+1 x
+2,20
+2,20
+SR
+Cham (B)
+1 x
+2,20
+2,20
+SR
+Bunga  Kekwla
+1 x
+11 ,70
+11 , 70
+SR
+Take Away
+3 x
+0,20
+0,60
+SR
+Tota] OTY; 6
+Tota] (Exclud
+GST ) :
+16,33
+GST payable (6X) :
+0,37
+Tota] (Inclusive of GST) :
+16 ,70
+TOTAL :
+16
+70
+CASH
+16 , 70
+GST   Summary
+Amount (RM)
+Tax (RM)
+SR
+(@ 6x)
+16 ,33
+0,37
+Jing

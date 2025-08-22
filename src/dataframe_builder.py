@@ -50,7 +50,7 @@ def parse_receipt_text(text):
 
 
 
-def extract_all_receipts(input_dir="OCR output/ocr_text"):
+def extract_all_receipts(input_dir="OCR output/tesseractocr text"):
     rows = []
     files = [f for f in os.listdir(input_dir) if f.endswith(".txt")]
 
@@ -78,5 +78,11 @@ if __name__ == "__main__":
     print(df.head())
      #eksik değer kontrolu
     print(df.isnull().sum())
+
+    # DataFrame'i CSV olarak kaydet
+    output_csv = "dataframe.csv"
+    df.to_csv(output_csv, index=False, encoding="utf-8-sig")
+
+    print(f"\nDataFrame CSV olarak kaydedildi: {output_csv}")
     
 

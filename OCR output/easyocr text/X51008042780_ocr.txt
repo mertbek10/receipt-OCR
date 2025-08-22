@@ -1,0 +1,57 @@
+RESTORAN  WAN ShENG
+002043319-W
+No. 2,
+Jalan   Temensgung  19/9,
+'Seksyen 9,
+Bandar   Mahkota Cheras;
+43200 Cheras,
+Selangor
+GST REG NO; 001335787520
+Tax
+Invoice
+Inv No.
+1134279
+Cashier :  Thandar
+Date
+10-05-2020 16:01:18
+Descrietion
+Oty
+U. price
+Total   TAx
+Teh   (B)
+2 x
+2.20
+4.40
+SR
+Cham   (E)
+1 x
+2.20
+2. 20
+SR
+Take Away
+3 x
+0. 20
+0. 60
+SR
+Total OTY:
+6
+fota/
+(Excluding GST)
+6. 81
+GST payable (6%)
+0. 39
+Tota/
+(Inclusive of GST)
+7. 20
+Total
+7
+20
+CASH
+7.20
+GST   Sunmary
+Emcunt (RM)
+Tax (RM)
+SR
+(@ 6%)
+0.81
+0. 39

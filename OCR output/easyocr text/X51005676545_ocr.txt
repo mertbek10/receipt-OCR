@@ -1,0 +1,66 @@
+3
+1801'011
+SYARIKAT PERNIACAAN GIN KEE
+(8/109-A)
+NO 290 JALAN AIR PANAS
+SETAPAK,
+53200, KUALA LUMPUR.
+TEL
+03-40210276
+GST ID
+000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No
+CS00012727
+Date:
+13/01/2018
+Cashier
+USER
+Time.
+15 53.00
+Salesperson
+Ref.
+Item
+SIPrice
+Amnount
+Tax
+1432
+3
+2 12
+6.36
+SR
+GLOVE F200 (PFR PAI? ;
+Tetal
+3
+6. 36
+Total Sales (ExCludıng GST)
+6.00
+Discount
+0.00
+Total GST
+0,36
+Rounding
+0.00
+Total Sales (Inclusive of GST)
+6.36
+CASH
+6.36
+Change
+0.00
+GST SUMMARY
+Iax Code
+%
+Amt (RM)
+Iax (RM)
+SR
+6
+6.00
+0.36
+Total
+6.00
+0.36
+GOODS SOLD ARE NOT RETURNABLE
+THANK YOU
+Qty
+Qty

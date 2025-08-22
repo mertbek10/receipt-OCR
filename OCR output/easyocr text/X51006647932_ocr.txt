@@ -1,0 +1,47 @@
+2
+18 0077
+3 [le (
+Vla/
+UROKO JAPANESE CUISINE SDN BHD
+224-1, JALAN 17/54,
+SECTION 17
+46400 PETALING JAYA,
+SELANGOR.
+03-7932 1023/0191
+GST
+No: 001126838272
+Bill Mo
+01H-26411
+Date
+14/05/2018 12.14.08 PM
+Cashier
+FLOR
+Table No
+To3
+Qty Description
+Amount
+UROKO SALAD
+1124,45 SR
+Total
+Discount
+(.00)
+service Chg 10.00%
+7.47
+GST
+4.93
+Grand Total
+87.08
+Roundıng Adjustment:
+902
+Net Total
+1124,45M
+GST Sumninary
+%
+Amount(RM
+Tax(RM)
+SR
+6 00
+82 15
+4 93
+Lul
+Reg
