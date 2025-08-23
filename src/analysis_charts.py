@@ -1,11 +1,15 @@
+'''
+en son elimizdeki verileri grafiğe döktüğümüz dosya 
+'''
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt #grafikleri çizmek için kullandığımız kütüphane
 import calendar
 
 # CSV dosyasını oku
 df = pd.read_csv("Dataframe/dataframe.csv")
 
 # Eksik (NaN) değerleri at
+# grafik analizini etkilememsi için none değerleri atıyoruz 
 df = df.dropna(subset=["date", "total"])
 
 # Tarihi datetime formatına çevir
@@ -28,7 +32,7 @@ max_value = monthly_expenses.max()
 print(f"En çok harcama yapılan ay: {max_month} → Toplam {max_value:.2f}")
 
 
-# === Grafik 1: Aylara Göre Harcama (bar chart) ===
+# Aylara Göre Harcama (bar chart) 
 plt.figure(figsize=(12,6))
 bars = monthly_expenses.plot(kind="bar", color="skyblue", edgecolor="black")
 
@@ -47,7 +51,7 @@ plt.tight_layout()
 plt.show()
 
 
-# === Grafik 2: Ödeme Yöntemi Dağılımı (pie chart) ===
+# Ödeme Yöntemi Dağılımı (pie chart)
 payment_counts = df["payment_method"].dropna().value_counts()
 
 if not payment_counts.empty:
@@ -65,11 +69,9 @@ else:
     print(" Ödeme yöntemi verisi bulunamadı!")
 
 
-
-   
 from datetime import datetime
 
-# CSV oku
+
 df = df.dropna(subset=["time"])  # boş saatleri at
 
 def normalize_time(t):
