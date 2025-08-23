@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import calendar
 
 # CSV dosyasını oku
-df = pd.read_csv("dataframe.csv")
+df = pd.read_csv("Dataframe/dataframe.csv")
 
 # Eksik (NaN) değerleri at
 df = df.dropna(subset=["date", "total"])
@@ -70,7 +70,6 @@ else:
 from datetime import datetime
 
 # CSV oku
-df = pd.read_csv("dataframe.csv")
 df = df.dropna(subset=["time"])  # boş saatleri at
 
 def normalize_time(t):
