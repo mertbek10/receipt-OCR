@@ -54,4 +54,16 @@ pip install -r requirements.txt
   Generates charts for:  
   - Monthly total expenses,  
   - Payment method distribution (Cash vs Credit),  
-  - Number of receipts by time intervals of the day.  
+  - Number of receipts by time intervals of the day.
+ 
+  ## 📊 Sample Outputs
+
+### Monthly Expenses by Month
+![Monthly Expenses](assets/monthly_expenses.png)
+
+### Payment Method Distribution
+![Payment Methods](assets/payment_methods.png)
+
+### Shopping Time Intervals
+![Time Intervals](assets/time_intervals.png)
+
