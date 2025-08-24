@@ -8,7 +8,6 @@ import calendar
 # CSV dosyasını oku
 df = pd.read_csv("Dataframe/dataframe.csv")
 
-# Eksik (NaN) değerleri at
 # grafik analizini etkilememsi için none değerleri atıyoruz 
 df = df.dropna(subset=["date", "total"])
 
